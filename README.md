@@ -12,17 +12,15 @@
 
 - 🌱 I’m currently learning **Databases.**
 
-- 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/DimitrisRammos?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/tminaidis9?tab=repositories)**
 
-- 📫 How to reach me **jrammos@outlook.com.gr**
-
-- ⚡ Fun fact **I like walking with friends. You’ll find me often at the gym.**
+- 📫 How to reach me **theomin2001@gmail.com**
 
 <br>
 
 📊 **My last project:**
 
-**The TicTacToe game, you can see it [here](https://github.com/DimitrisRammos/TicTacToe).**
+**Projects on System Programming, you can see it [here](https://github.com/tminaidis9/System-Programming).**
 
 <br>
 
@@ -41,15 +39,14 @@
 ## 📊 My Github Stats
 
   <br/>
-    <img alt="Dimitris Rammos Github Stats" src="https://github-readme-stats.vercel.app/api?username=DimitrisRammos&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-    <img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimitrisRammos&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    <img alt="Dimitris Rammos Github Stats" src="https://github-readme-stats.vercel.app/api?username=tminaidis9&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tminaidis9&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   <br/>
 
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/dimitrisrammos/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/rammos_08"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/_rammos_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/profile.php?id=100008209203329"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/48px-2021_Facebook_icon.svg.png"/></a>
+<a href = "https://www.linkedin.com/in/%CE%B8%CE%B5%CF%8C%CE%B4%CF%89%CF%81%CE%BF%CF%82-%CE%BC%CE%B7%CE%BD%CE%B1%CE%90%CE%B4%CE%B7%CF%82-489541236/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/t.minaidis/?hl=el"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/thodoris.minaidis"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/48px-2021_Facebook_icon.svg.png"/></a>
 </p>

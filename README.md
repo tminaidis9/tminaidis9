@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m thrird year undergraduate at  **[DIT](https://www.di.uoa.gr/)**
+- 🔭 I’m forth year undergraduate at  **[DIT](https://www.di.uoa.gr/)**
 
 - 🌱 I’m currently learning **Databases.**
 

@@ -20,7 +20,7 @@
 
 📊 **My last project:**
 
-**Projects on System Programming, you can see it [here](https://github.com/tminaidis9/System-Programming).**
+**Projects on System Programming, you can see them [here](https://github.com/tminaidis9/System-Programming).**
 
 <br>
 

@@ -10,7 +10,7 @@
 
 - 🔭 I’m forth year undergraduate at  **[DIT](https://www.di.uoa.gr/)**
 
-- 🌱 I’m currently learning **Databases.**
+- 🌱 I’m currently learning **Dockers, C# and AI.**
 
 - 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/tminaidis9?tab=repositories)**
 

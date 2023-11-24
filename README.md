@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m forth year undergraduate at  **[DIT](https://www.di.uoa.gr/)**
+- 🔭 I’m fifth year undergraduate at  **[DIT](https://www.di.uoa.gr/)**
 
 - 🌱 I’m currently learning **Dockers, C# and AI.**
 

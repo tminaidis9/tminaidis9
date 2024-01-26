@@ -20,7 +20,7 @@
 
 📊 **My last project:**
 
-**Projects on Artificial Intelligence, you can see them **[here]([https://github.com/tminaidis9/Artificial-Intelligence-2]).**
+**Projects on Artificial Intelligence, you can see them **[here](https://github.com/tminaidis9/Artificial-Intelligence-2).**
 
 <br>
 
